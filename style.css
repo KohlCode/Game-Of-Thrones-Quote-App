@@ -1,0 +1,14 @@
+body{
+  box-sizing: border-box;
+}
+
+#main{
+  margin: 5% auto;
+  width: 40%;
+  text-align: center;
+  
+}
+
+button{
+  margin-top: 4%;
+}
